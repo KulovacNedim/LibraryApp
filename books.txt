@@ -1,0 +1,16 @@
+1 true Albert Camus Stranac 
+2 true Danilo Kiš Enciklopedija mrtvih 
+3 true Dobrica Cosic Korjeni 
+4 true Fjord Dostojevski Zloèin i kazna 
+5 false JW Goethe Faust 
+6 true Hermann Hesse Stepski vuk 
+7 true Ivo Andric Prokleta avlija 
+8 true Ivo Andric Razgovor sa Gojom 
+9 true Ivo Andric Krug 
+10 true Marcel Proust Combray 
+11 true Mesa Selimovic Dervis i smrt 
+12 true Mihail Bulgakov Majstor i Margarita 
+13 true Milorad Pavic Hazarski recnik 
+14 true Vladan Desnica Proljeca Ivana Galeba 
+15 true William Shakespeare Hamlet 
+16 true Antoni Gidens Sociologija 
